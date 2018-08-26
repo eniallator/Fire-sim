@@ -1,0 +1,22 @@
+{
+  "name": "fire-sim",
+  "version": "1.0.0",
+  "description": "Fire simulation written in JS for the web browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eniallator/Fire-sim.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/eniallator/Fire-sim/issues"
+  },
+  "homepage": "https://github.com/eniallator/Fire-sim#readme",
+  "dependencies": {
+    "simplex-noise": "^2.4.0"
+  }
+}
